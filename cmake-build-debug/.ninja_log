@@ -1,0 +1,7 @@
+# ninja log v5
+2	691	6715114340229079	CMakeFiles/base_cpp.dir/main.cpp.obj	2313e27e55a17a68
+695	872	6715114342103613	base_cpp.exe	a6868f942d72195
+2	285	6715118531427947	build.ninja	b258259cfff47ea4
+1	638	6715118538145110	CMakeFiles/base_cpp.dir/Prueba_POO_Fecha/Fecha.cpp.obj	2b2453d56e201ffd
+10	715	6715118538926196	CMakeFiles/base_cpp.dir/Prueba_POO_Fecha/Prueba_POO_Fecha.cpp.obj	55c70505a75c51b
+716	901	6715118540800766	base_cpp.exe	771e7bebcfc510ba
